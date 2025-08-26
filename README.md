@@ -1,4 +1,6 @@
-<h2 align="left">Hi 👋! Me chamo Filipe Magalhães, tenho 20 anos e atualmente estou no ensino superior como Análise e Desenvolvimento de Software e também aprofundando em cursos de programação, possuo proficiência destacada na área fullstack Front-end & PHP, buscando constantemente aprimorar minhas habilidades em sistemas e tecnologias emergentes.</h2>
+<h2 align="left">Hi 👋! Me chamo Filipe Magalhães, tenho 21 anos e atualmente estou no ensino superior como Análise e Desenvolvimento de Software e também aprofundando em cursos de programação, Atuo na área como Desenvolvedor Fullstack Junior na Mobiletec, buscp constantemente aprimorar minhas habilidades em sistemas e tecnologias emergentes.</h2>
+
+<h2 align="left"> Minhas Atividade de Contribuição Profissional está no perfil https://github.com/filipecs25.</h2>
 
 ###
 
