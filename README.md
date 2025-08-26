@@ -1,6 +1,8 @@
-<h2 align="left">Hi 👋! Me chamo Filipe Magalhães, tenho 21 anos e atualmente estou no ensino superior como Análise e Desenvolvimento de Software e também aprofundando em cursos de programação, Atuo na área como Desenvolvedor Fullstack Junior na Mobiletec, buscp constantemente aprimorar minhas habilidades em sistemas e tecnologias emergentes.</h2>
+<h2 align="left">Hi 👋! My name is Filipe Magalhães, I’m 21 years old and currently pursuing a degree in Systems Analysis and Development. Alongside my studies, I continuously enhance my skills through advanced programming courses and hands-on practice.</h2>
 
-<h2 align="left"> Minhas Atividade de Contribuição Profissional está no perfil https://github.com/filipecs25.</h2>
+<h2 align="left">I’m currently working as a Junior Fullstack Developer at Mobiletec, where I apply modern technologies to build scalable and efficient solutions. My goal is to grow as a Software Engineer, becoming a reference in the field by exploring robust architectures and emerging technologies.</h2>
+
+<h2 align="left">🚀 My professional contributions and projects can be found on my GitHub profile: <a href="https://github.com/filipecs25" target="_blank">github.com/filipecs25</a></h2>
 
 ###
 
