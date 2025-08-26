@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Filipe Magalhães, I’m 21 years old and currently pursuing a degree in Systems Analysis and Development. Alongside my studies, I continuously enhance my skills through advanced programming courses and hands-on practice.</h2>
+<h2 align="left">Hi! My name is Filipe Magalhães, I’m 21 years old and currently pursuing a degree in Systems Analysis and Development. Alongside my studies, I continuously enhance my skills through advanced programming courses and hands-on practice.</h2>
 
 <h2 align="left">I’m currently working as a Junior Fullstack Developer at Mobiletec, where I apply modern technologies to build scalable and efficient solutions. My goal is to grow as a Software Engineer, becoming a reference in the field by exploring robust architectures and emerging technologies.</h2>
 
